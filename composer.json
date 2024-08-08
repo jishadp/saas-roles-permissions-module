@@ -1,5 +1,5 @@
 {
-    "name": "jishad/saas-roles-permissions",
+    "name": "jishadp/saas-roles-permissions",
     "description": "This package will give the option in settings to assign permissions to the roles",
     "type": "library",
     "license": "MIT",
