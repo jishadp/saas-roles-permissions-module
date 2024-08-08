@@ -1,0 +1,26 @@
+{
+    "name": "jishad/saas-roles-permissions",
+    "description": "This package will give the option in settings to assign permissions to the roles",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jishadp\\SaasRolesPermissions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jishad P",
+            "email": "jishadp369@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Jishadp\\SaasRolesPermissions\\Providers\\SaasLeadModuleServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
